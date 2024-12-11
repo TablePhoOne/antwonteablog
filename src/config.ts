@@ -2,9 +2,9 @@ import type { Site, SocialObjects } from "./types";
 
 export const SITE: Site = {
   website: "https://antwontea.vercel.app//", // replace this with your deployed domain
-  author: "Sat Naing",
+  author: "Antwon Tea",
   profile: "https://satnaing.dev/",
-  desc: "A minimal, responsive and SEO-friendly Astro blog theme.",
+  desc: "Culinary Journey and Journal",
   title: "antwon.tea",
   ogImage: "astropaper-og.jpg",
   lightAndDarkMode: true,
